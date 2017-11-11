@@ -1,5 +1,5 @@
 {
-  "name": "votingAppReact",
+  "name": "CloudControl",
   "private": true,
   "scripts": {
     "start": "meteor run"
